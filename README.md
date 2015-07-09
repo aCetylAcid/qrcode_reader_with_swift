@@ -1,5 +1,5 @@
 # qrcode_reader_with_swift
-QRCode Reader Application Sample.
+QRCode Reader Application Sample with swift. 
 
 ## Environment
 * Xcode 6.4
